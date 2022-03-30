@@ -1,0 +1,16 @@
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\bin\Debug\AES_Encryption.exe.config
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\bin\Debug\AES_Encryption.exe
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\bin\Debug\AES_Encryption.pdb
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\obj\Debug\AES_Encryption.csproj.AssemblyReference.cache
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\obj\Debug\AES_Encryption.csproj.SuggestedBindingRedirects.cache
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\obj\Debug\MainWindow.g.cs
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\obj\Debug\App.g.cs
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\obj\Debug\AES_Encryption_MarkupCompile.cache
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\obj\Debug\AES_Encryption_MarkupCompile.lref
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\obj\Debug\MainWindow.baml
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\obj\Debug\AES_Encryption.g.resources
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\obj\Debug\AES_Encryption.Properties.Resources.resources
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\obj\Debug\AES_Encryption.csproj.GenerateResource.cache
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\obj\Debug\AES_Encryption.csproj.CoreCompileInputs.cache
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\obj\Debug\AES_Encryption.exe
+E:\Univalle Provisional\Github\AES_Encription\AES_Encryption\obj\Debug\AES_Encryption.pdb
